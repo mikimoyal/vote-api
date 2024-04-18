@@ -13,7 +13,7 @@ spec:
       recurse: true
     path: app
     repoURL: https://github.com/mikimoyal/vote-api.git
-    targetRevision: main
+    targetRevision: master
   syncPolicy:
     syncOptions:
       - CreateNamespace=true
